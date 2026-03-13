@@ -52,5 +52,3 @@ public class Main{
 ## RESULT:
 
 The program was executed Successfully.
-## RESULT:
-
