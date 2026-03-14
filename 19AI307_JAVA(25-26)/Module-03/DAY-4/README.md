@@ -8,6 +8,7 @@ LenientJudge: WIN if diff ≥ 5, DRAW if < 5
 StrictJudge: WIN if diff ≥ 10, DRAW if < 10
 ## AIM:
 
+Each judge uses different criteria to score fighters. Based on points, the judge will declare “WIN”, “LOSE” or “DRAW”.
 
 ## ALGORITHM :
 1.	Start the program.
