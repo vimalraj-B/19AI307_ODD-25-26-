@@ -16,13 +16,9 @@ To handle a NullPointerException when performing operations on a null string in 
 5.	Print "Null element" in case of exception.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Exception Handling using Java
-Developed by : B.VIMALRAJ
-Register Number : 212224230304
-*/
-```
+## Developed by : B.VIMALRAJ
+## Register Number : 212224230304
+
 
 ## SOURCE CODE:
 ```
